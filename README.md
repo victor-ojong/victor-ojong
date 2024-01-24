@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend  Engineer
 -------------
 
-I am a backend developer with Expertise in Node js and nest js. I am familiar with Angular.
+I have expertise in Javascript, Node js, Nest js and Python. I am familiar with Angular.
 
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [My portfolio](http://https://victor-ojong.github.io/)
