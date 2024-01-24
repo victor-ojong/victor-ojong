@@ -25,13 +25,3 @@ I am a backend developer with Expertise in Node js and nest js. I am familiar wi
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/victor-ojong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/victorojong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/victor-ojong"><img src="https://github-readme-stats.vercel.app/api?username=victor-ojong&show_icons=true&hide=stars,issues,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="victor-ojong's GitHub stats" /></a>
-
-<a href="http://www.github.com/victor-ojong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-ojong&stroke=ffffff&background=1e3a8a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/victor-ojong"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=victor-ojong&bg_color=1e3a8a&color=ffffff&line=facc15&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
