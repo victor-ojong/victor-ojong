@@ -7,7 +7,7 @@ Backend  Engineer
 I have expertise in Javascript, Node js, Nest js and Python.
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [My portfolio](http://https://victor-ojong.github.io/)
+* 🖥️  See my portfolio at [My portfolio](https://victor-ojong.github.io/)
 * ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
 * 🚀  I'm currently working on [Logistics for me - E commerce Application](http://logistics-for-me.netlify.app/)
 * 🧠  I'm learning AWS
