@@ -10,7 +10,7 @@ I have expertise in Javascript, Node js, Nest js and Python.
 * 🖥️  See my portfolio at [My portfolio](https://victor-ojong.github.io/)
 * ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
 * 🚀  I'm currently working on [Logistics for me - E commerce Application](http://logistics-for-me.netlify.app/)
-* 🧠  I'm learning AWS
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Backend Projects
 * ⚡  Human first, then a programmer.
 
