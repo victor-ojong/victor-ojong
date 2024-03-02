@@ -4,15 +4,15 @@ Victor Ojong
 Backend  Engineer
 -------------
 
-I have expertise in Javascript, Node js, Nest js and Python.
+I have hands-on exxperience using Javascript, Node js, Nest js and Python programming Languages and frameworks to solve real-world problems across a variety of domains.
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [My portfolio](https://victor-ojong.github.io/)
+* 🖥️  See my portfolio at [Website](https://victor-ojong.github.io/)
 * ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
-* 🚀  I'm currently working on [Logistics for me - E commerce Application](http://logistics-for-me.netlify.app/)
-* 🧠  I'm learning DevOps
-* 🤝  I'm open to collaborating on Backend Projects
-* ⚡  Human first, then a programmer.
+* 🚀  I'm currently working on [mentorshub Server](https://mentorshub.io/)
+* 🧠  I'm currenty learning DevOps
+* 🤝  I'm open to collaborating on Various Projects
+* ⚡  I keep practicing, learning and getting better daily.
 
 ### Skills
 
