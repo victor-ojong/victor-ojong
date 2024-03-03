@@ -4,7 +4,7 @@ Victor Ojong
 Backend  Engineer
 -------------
 
-I have hands-on exxperience using Javascript, Node js, Nest js and Python programming Languages and frameworks to solve real-world problems across a variety of domains.
+I love writing clean and scalable code code with hands-on experience in multiple programming Languages and frameworks to solve real-world problems across a variety of domains.
 
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [Website](https://victor-ojong.github.io/)
@@ -15,6 +15,24 @@ I have hands-on exxperience using Javascript, Node js, Nest js and Python progra
 * ⚡  I keep practicing, learning and getting better daily.
 
 ### Skills
+
+ <p class="lead fw-light mb-4">
+              
+ <p style="text-align: left">
+            
+   <li><b>Collaboration:</b> Git, Github, Slack</li>
+
+   <li><b>Frontend:</b> HTML, CSS , Javascript</li>
+
+    <li><b>Backend:</b> Node.js, Express.js, Nest.js, Graphql</li>
+
+    <li><b>Database:</b> MongoDb, Postgres, TypeORM, MySQL</li>
+
+    </p>
+
+
+              Let's connect!
+   </p>
 
 
 <p align="left">
