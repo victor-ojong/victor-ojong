@@ -19,6 +19,7 @@ I love writing clean and scalable code code with hands-on experience in multiple
  <p class="lead fw-light mb-4">
               
  <p style="text-align: left">
+ <ul>
             
    <li><b>Collaboration:</b> Git, Github, Slack</li>
 
@@ -27,6 +28,7 @@ I love writing clean and scalable code code with hands-on experience in multiple
     <li><b>Backend:</b> Node.js, Express.js, Nest.js, Graphql</li>
 
     <li><b>Database:</b> MongoDb, Postgres, TypeORM, MySQL</li>
+    </ul>
 
     </p>
 
