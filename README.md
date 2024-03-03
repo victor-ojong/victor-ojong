@@ -5,7 +5,6 @@ Software Engineer
 -------------
 
 I love writing clean and scalable code code with hands-on experience in multiple programming Languages and frameworks to solve real-world problems across a variety of domains.
-
 I don't know it all, so I am constantly learning and consider the opinions of others in the team very important.
 
 ### Skills
