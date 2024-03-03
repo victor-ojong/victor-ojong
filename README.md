@@ -1,7 +1,7 @@
 Victor Ojong
 ====================================================================================================================================
 
-Backend  Engineer
+Software Engineer
 -------------
 
 I love writing clean and scalable code code with hands-on experience in multiple programming Languages and frameworks to solve real-world problems across a variety of domains.
@@ -21,6 +21,8 @@ I love writing clean and scalable code code with hands-on experience in multiple
    <li><b>Collaboration:</b> Git, Github, Slack</li>
 
    <li><b>Frontend:</b> HTML, CSS , Javascript</li>
+
+    <li><b>Backend:</b> Node.js, Express.js, Nest.js, Graphql</li>
 
     <li><b>Backend:</b> Node.js, Express.js, Nest.js, Graphql</li>
 
