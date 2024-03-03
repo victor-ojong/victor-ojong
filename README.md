@@ -6,14 +6,6 @@ Software Engineer
 
 I love writing clean and scalable code code with hands-on experience in multiple programming Languages and frameworks to solve real-world problems across a variety of domains.I don't know it all, so I am constantly learning and consider the opinions of others in the team very important.
 
-* 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [Website](https://victor-ojong.github.io/)
-* ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
-* 🚀  I'm currently working on [mentorshub Server](https://mentorshub.io/)
-* 🧠  I'm currenty learning DevOps
-* 🤝  I'm open to collaborating on Various Projects
-* ⚡  I keep practicing, learning and getting better daily.
-
 ### Skills
 
  <ul>
@@ -27,6 +19,9 @@ I love writing clean and scalable code code with hands-on experience in multiple
    <li><b>Database:</b> MongoDb, Postgres, TypeORM, MySQL</li>
    
  </ul>
+
+* 🖥️  See my portfolio at [Website](https://victor-ojong.github.io/)
+* ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
 
 
 <p align="left">
