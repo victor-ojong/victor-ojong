@@ -15,7 +15,7 @@ I don't know it all, so I am constantly learning and consider the opinions of ot
 
    <li><b>Frontend:</b> HTML, CSS , Javascript</li>
 
-   <li><b>Backend:</b> Node.js, Express.js, Nest.js, Graphql</li>
+   <li><b>Backend:</b> Node.js, Express.js, Typescript, Nest.js, Graphql</li>
 
    <li><b>Database:</b> MongoDb, Postgres, TypeORM, MySQL</li>
    
