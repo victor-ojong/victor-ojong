@@ -17,7 +17,7 @@ I don't know it all, so I am constantly learning and consider the opinions of ot
 
    <li><b>Backend:</b> Node.js, Express.js, Typescript, Nest.js, Graphql</li>
 
-   <li><b>Database:</b> MongoDb, Postgres, TypeORM, MySQL</li>
+   <li><b>Database:</b> MongoDb, Postgres, TypeORM, Knex ORM, MySQL</li>
    
  </ul>
 
