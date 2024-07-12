@@ -13,7 +13,7 @@ I don't know it all, so I am constantly learning and consider the opinions of ot
             
    <li><b>Collaboration:</b> Git, Github, Slack</li>
 
-   <li><b>Frontend:</b> HTML, CSS , Javascript, ES6+, React.Js</li>
+   <li><b>Frontend:</b> HTML, CSS , Javascript, ES6+</li>
 
    <li><b>Backend:</b> Node.Js, Express.Js, Typescript, Nest.Js, Graphql</li>
 
