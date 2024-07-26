@@ -1,7 +1,7 @@
 Victor Ojong
 ====================================================================================================================================
 
-Full-stack Software Engineer
+Web Engineer
 -------------
 
 I write clean and scalable code. My expertise spans across multiple programming Languages and frameworks in solving real-world problems across a variety of domains.
