@@ -21,7 +21,7 @@ I don't know it all, so I am constantly learning and consider the opinions of ot
    
  </ul>
 
-* 🖥️  See my portfolio at [Website](https://victor-ojong.github.io/)
+* 🖥️  See my portfolio at [Website](https://switchtechglobal.com.ng/victor.ojong)
 * ✉️  You can contact me at [victorojong500@gmail.com](mailto:victorojong500@gmail.com)
 
 
