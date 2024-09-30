@@ -1,7 +1,7 @@
 Victor Ojong
 ====================================================================================================================================
 
-Web Engineer
+Web Engineer and SEO Specialist
 -------------
 
 I write clean and scalable code. My expertise spans across multiple programming Languages and frameworks in solving real-world problems across a variety of domains.
